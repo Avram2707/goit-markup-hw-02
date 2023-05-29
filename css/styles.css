@@ -1,0 +1,372 @@
+:root {
+    --title-color:#2E2F42;
+    --main-text-color:#FFFFFF;
+    --second-text-color:#434455;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.list {
+    list-style-type: none;
+}
+
+    /**TODO-------------HEADER---------------**/
+
+.header-logo {
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        color: #2E2F42;
+}
+
+.header-logo span {
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        color: #4D5AE5;
+}
+
+.header-menu-link {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.50;
+        letter-spacing: 0.02em; 
+        color: #2E2F42;
+}
+
+.header-address-menu-link {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.50;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.header-menu-link:hover {
+    color: #4D5AE5;
+}
+
+.header-menu-link:focus {
+    color: #4D5AE5;
+}
+
+.header-address-menu-link:hover {
+    color: #4D5AE5;
+}
+
+.header-address-menu-link:focus {
+    color: #4D5AE5;
+}
+
+   /**TODO---------------HERO---------------**/
+
+.hero-title {
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07;
+        letter-spacing: 0.02em;  
+        color: #FFFFFF;
+}
+
+.hero {
+    background-color: #2E2F42;
+}
+
+.hero-btn {
+        font-family: inherit;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.50;
+        letter-spacing: 0.04em;
+        color: #FFFFFF;
+        cursor:pointer;
+}
+
+.hero-btn:hover {
+    color: #4D5AE5;
+}
+
+.hero-btn:focus {
+    color: #4D5AE5;
+}
+
+/**TODO-----------------STRATEGIES----------------**/
+
+.strategies {
+
+}
+
+.strategies-list {
+
+}
+
+.strategies-item {
+
+}
+
+.strategies-subtitle {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.20;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.strategies-item-text {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.50;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+/**TODO-----------------PHOTO----------------**/
+.photo {
+
+}
+
+.photo-title {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color:var(--title-color);
+
+}
+
+.photo-list {
+
+}
+
+.photo-item {
+
+}
+
+/**TODO-----------------TEAM----------------**/
+.team {
+
+}
+
+.team-title {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color: var(--title-color)
+
+}
+
+.team-list {
+
+}
+
+.team-item {
+
+}
+
+.team-subtitle {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.20;
+        letter-spacing: 0.02em;
+        color: var(--title-color);
+}
+
+.team-item-text {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.50;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+/**TODO-----------------FOOTER----------------**/
+
+.footer {
+    background-color: #2E2F42;
+
+}
+
+.footer-logo {
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #F4F4FD;
+
+}
+
+.footer-link {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.50;
+        letter-spacing: 0.02em;
+        color: #F4F4FD;
+
+}
+
+.footer-logo span {
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4D5AE5;
+
+}
+
+/**-----------------PORTFOLIO----------------**/
+
+.portfolio-button {
+
+}
+
+.portfolio-button-list {
+
+}
+
+.portfolio-button-item {
+
+}
+
+.portfolio-button-textblu {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.50;    
+        letter-spacing: 0.04em;
+        color: #FFFFFF;
+        cursor: pointer;
+}
+
+.portfolio-button-text {
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 1.50;
+            letter-spacing: 0.04em;
+            color: #4D5AE5;
+            cursor: pointer;
+}
+
+/**-----------------PORTFOLIO1----------------**/
+
+.portfolio-photoa {
+
+}
+
+.portfolio-list {
+
+}
+
+.portfolio-item {
+
+}
+
+.portfolio-subtitle {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.20;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.portfolio-item-text {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.50;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+/**-----------------PORTFOLIOB----------------**/
+
+.portfoliob {
+
+}
+
+.portfoliob-list {
+
+}
+
+.portfoliob-item {
+
+}
+
+.portfoliob-subtitle {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.20;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.portfoliob-item-text {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.50;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+/**-----------------PORTFOLIOC----------------**/
+
+.portfolioc {
+
+}
+
+.portfolioc-list {
+
+}
+
+.portfolioc-item {
+
+}
+
+.portfolioc-subtitle {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.20;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.portfolioc-item-text {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.50;
+        letter-spacing: 0.02em;
+        color: #434455;
+
+}
+
+
