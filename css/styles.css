@@ -19,6 +19,9 @@ body {
 }
 
     /**TODO-------------HEADER---------------**/
+address {
+    font-style: normal;
+}
 
 .header-logo {
         font-family: "Raleway", sans-serif;
@@ -161,7 +164,7 @@ body {
 
 /**TODO-----------------TEAM----------------**/
 .team {
-    background-color: #F4F4FD;
+   
 }
 
 .team-title {
@@ -176,7 +179,7 @@ body {
 }
 
 .team-list {
-    background-color: #FFFFFF;
+    background-color: #FFFFFF
 }
 
 .team-item {
