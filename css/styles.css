@@ -270,11 +270,11 @@ address {
 
 
 .portfolio-button-text:hover {
-        color: #FFFFFF
+ background-color: #404BBF;
 }
 
 .portfolio-button-text:focus {
-        color: #FFFFFF
+ background-color: #404BBF;
 }
 
 /**-----------------PORTFOLIO1----------------**/
