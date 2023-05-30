@@ -164,11 +164,10 @@ address {
 
 /**TODO-----------------TEAM----------------**/
 .team {
-   
+background-color: #F4F4FD;
 }
 
 .team-title {
-        background-color: #F4F4FD;
         text-align: center;
         font-weight: 700;
         font-size: 36px;
