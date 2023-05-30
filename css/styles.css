@@ -257,7 +257,7 @@ address {
 }
 
 .portfolio-button-text {
-        background-color:#F4F4FD;
+        background-color:#4d5ae5;
         font-family: "Roboto", sans-serif;
         font-style: normal;
         font-weight: 500;
@@ -269,11 +269,11 @@ address {
 
 
 .portfolio-button-text:hover {
-        background-color: #404BBF
+        background-color: #FFFFFF
 }
 
 .portfolio-button-text:focus {
-        background-color: #404BBF
+        background-color: #FFFFFF
 }
 
 /**-----------------PORTFOLIO1----------------**/
